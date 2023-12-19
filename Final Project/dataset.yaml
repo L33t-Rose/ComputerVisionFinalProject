@@ -1,0 +1,7 @@
+path: ../datasets/images  # dataset root dir
+train: images/train  # train images (relative to 'path')
+test: images/test
+
+nc: 12
+
+names: ['mcp2', 'pip2', 'dip2', 'mcp3', 'pip3', 'dip3', 'mcp4', 'pip4', 'dip4', 'mcp5', 'pip5', 'dip5']
