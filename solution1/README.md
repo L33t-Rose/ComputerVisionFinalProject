@@ -5,6 +5,7 @@
 - Matlab 2023b
 - The Images and The Text Files
 
+Delete the deleteme file inside of output and input_images
 Simply just drop all of the files that start with 9 into the input_images folder
 
 I have it setup so that if you only want to run CV algo through one image of you channel just keep the variable `runAll` to `false`

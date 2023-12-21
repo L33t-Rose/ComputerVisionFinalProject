@@ -1,7 +1,9 @@
 # /solution1/input_text/*/001
-/solution1/input_images/*
-*/*.asv
+!output
 !/solution/input_images
+# /solution1/input_images/*
+001
+/9*/*
+*/*.asv
 *.csv
 *.png
-# !/solution/output
